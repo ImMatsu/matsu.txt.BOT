@@ -16,3 +16,5 @@ And maybe in the future use database with javascript
 
 
 4.package:  bot information.
+
+5. Se voce quiser adicionar uma frase para o bot, faça um fork no seu setup e adicione as frases no vetor "r" e comite as mudanças, para que eu possa atualiza-lo pelo Heroku.
